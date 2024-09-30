@@ -10,15 +10,16 @@ console.log("Aufgabe 1")
 // Geben Sie das Volumen in einem Antwortsatz auf der Konsole aus.
 
 
-
+let Quadratzentimeter = a * a * a; 
 
 // 1b 
 // Wenn das Volumen 1000 oder mehr Quadratzentimeter beträgt soll eine Meldung auf der Konsole ausgegeben werden, die besagt,
 // dass das Volumen 1000 oder mehr Quadratzentimeter beträgt.
+ 
 
-
-
-
+if (Quadratzentimeter>= 1000){
+    
+}
 
 // 1c) - Nur Klausurschreiber
 // Nutzen Sie die Math-Bibliothek .sqrt(), um die Wurzel aus dem Volumen zu errechnen. Geben Sie die Kantenlänge in einem Antwortsatz aus.
@@ -87,6 +88,13 @@ console.log("Aufgabe 3")
 // Deklarieren, Instanziieren Sie ein Objekt mit allen genannten Eigenschaften. 
 
 
+let Netto-Rechnungsbetrag = 370,00; 
+let Raba
+if (Lebensmittel, Zeitung, Buch){
+    mwstSatz = 7%;
+}else{
+    if (mwstSatz = 19%);
+}
 
 
 // 3b
